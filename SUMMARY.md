@@ -1,10 +1,10 @@
 # Summary
 
 * [简介](README.md)
-* [术语](terms/READMD.md)
-* [听力](/)
-* [口语](/)
-  * [字母](/)
+* [术语](terms/README.md)
+* [听力](hear/README.md)
+* [口语](speak/README.md)
+  * [字母](speak/letters.md)
   * [音标](/)
   * [音节](/)
   * [重音](/)
