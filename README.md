@@ -1,5 +1,7 @@
 # 英语学习笔记
 
+[![Build Status](https://travis-ci.org/jnotes/english-note.svg?branch=master)](https://travis-ci.org/jnotes/english-note)
+
 ### 简介
 
 此文档是自己整理的英文学习的笔记。一是为了让自己可以更好、更全面的学习英文。二是通过做笔记的方式提高自己的记忆力。我所学的知识都是通过此方法，此方法可以系统的学习新的知识，而且记得更久。虽然前期在学习效率上比较慢。但是越是基础知识越应该通过此方式学习。
