@@ -4,7 +4,7 @@
 * [术语](/terms/README.md)
 * [听力](/hear/README.md)
 * [口语](/speak/README.md)
-  * [音节](/)
+  * [音节](/speak/)
   * [重音](/)
   * [次重音](/)
   * [语调](/)
