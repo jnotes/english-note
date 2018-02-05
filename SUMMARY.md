@@ -64,6 +64,7 @@
   * [音标表](/attachments/phonogram.md)
   * [词性表](/attachments/word_class.md)
   * [句类](/attachments/syntax.md)
+  * [时态](/attachments/tense.md)
 * [常用词汇](/)
   * [日期](/)
   * [颜色](/)
