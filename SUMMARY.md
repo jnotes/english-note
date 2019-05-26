@@ -50,6 +50,7 @@
       * [状语](/grammar/syntax/adverbial.md)
       * [表语](/grammar/syntax/predicative.md)
       * [同位语](/grammar/syntax/appositive.md)
+      * [独立成分](/grammar/syntax/independent.md)
     * [省略](/grammar/syntax/omit.md)
     * [句子的转换与合并](/grammar/syntax/convert.md)
     * [疑问句](/grammar/syntax/question.md)
